@@ -1,3 +1,9 @@
+/*----------------------------------------*/
+    Multi-Threaded TCP Application
+/*----------------------------------------*/
+
+Multi-threaded TCP Server and Client. Server can handle 20 outstanding connections. To demonstrate communication, client prompts for a set of user inputs to send to server.
+
 make clean all --> directs output to release/
 make release -> directs output to release/
 make debug -> directs output to debug/
