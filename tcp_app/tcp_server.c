@@ -1,3 +1,13 @@
+/*
+ * Name: tcp_server.c
+ *
+ * Author: Srikesh Srinivas
+ *
+ * Description: Multi-threaded TCP server using network socket based 
+ * communication with clients
+ *
+ * */
+
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>

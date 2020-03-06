@@ -1,3 +1,11 @@
+/*
+ * Name: tcp_client.c
+ *
+ * Author: Srikesh Srinivas
+ *
+ * Description: TCP client based on network sockets
+ *
+ * */
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
