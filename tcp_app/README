@@ -1,0 +1,7 @@
+make clean all --> directs output to release/
+make release -> directs output to release/
+make debug -> directs output to debug/
+
+Run the following commands from the debug/ or release/ folders
+sudo ./tcp_server
+sudo ./tcp_client
